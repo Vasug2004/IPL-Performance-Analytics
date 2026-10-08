@@ -28,11 +28,11 @@ Two datasets containing historical Indian Premier League data:
 
 ### Highest Team Totals
 
-![Highest Team Totals](Images/highest_team_totals.png)
+![Highest Team Totals](Images/Highest%20Team%20Totals.png)
 
 ### IPL Team Win Percentage
 
-![IPL Team Win Percentage](Images/ipl_team_win_percentage.png)
+![IPL Team Win Percentage](Images/Highest%20Team%20Win%20%25.png)
 
 ## Key Findings
 
